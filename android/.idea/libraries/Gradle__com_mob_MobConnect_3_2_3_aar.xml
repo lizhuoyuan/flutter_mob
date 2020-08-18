@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: com.mob:MobConnect:3.2.3@aar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../.gradle/caches/transforms-2/files-2.1/3b15f0ad923f21e0638cf0f036dc3233/MobConnect-3.2.3/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../.gradle/caches/transforms-2/files-2.1/3b15f0ad923f21e0638cf0f036dc3233/MobConnect-3.2.3/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

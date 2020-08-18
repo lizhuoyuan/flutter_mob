@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: com.mob:MobGuard:1.0.8@aar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../.gradle/caches/transforms-2/files-2.1/adde14af60d432699679d9904a305ead/MobGuard-1.0.8/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../.gradle/caches/transforms-2/files-2.1/adde14af60d432699679d9904a305ead/MobGuard-1.0.8/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

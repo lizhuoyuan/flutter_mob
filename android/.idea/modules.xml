@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/android.iml" filepath="$PROJECT_DIR$/android.iml" group="android" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="android/app" />
+      <module fileurl="file://$PROJECT_DIR$/../../../flutter/.pub-cache/hosted/pub.flutter-io.cn/mobpush_plugin-1.1.5/android/mobpush_plugin.iml" filepath="$PROJECT_DIR$/../../../flutter/.pub-cache/hosted/pub.flutter-io.cn/mobpush_plugin-1.1.5/android/mobpush_plugin.iml" group="android/mobpush_plugin" />
+      <module fileurl="file://$PROJECT_DIR$/../../../flutter/.pub-cache/hosted/pub.flutter-io.cn/sharesdk_plugin-1.2.8/android/sharesdk_plugin.iml" filepath="$PROJECT_DIR$/../../../flutter/.pub-cache/hosted/pub.flutter-io.cn/sharesdk_plugin-1.2.8/android/sharesdk_plugin.iml" group="android/sharesdk_plugin" />
+    </modules>
+  </component>
+</project>

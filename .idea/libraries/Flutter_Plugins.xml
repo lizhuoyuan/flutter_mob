@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Flutter Plugins" type="FlutterPluginsLibraryType">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../flutter/.pub-cache/hosted/pub.flutter-io.cn/mobpush_plugin-1.1.5" />
+      <root url="file://$PROJECT_DIR$/../../flutter/.pub-cache/hosted/pub.flutter-io.cn/sharesdk_plugin-1.2.8" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
